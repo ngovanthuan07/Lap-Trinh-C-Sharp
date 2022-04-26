@@ -1,0 +1,13 @@
+D:\C#\Bai2TruuTuong\Bai2TruuTuong\obj\Debug\netcoreapp3.1\Bai2TruuTuong.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Bai2TruuTuong\Bai2TruuTuong\obj\Debug\netcoreapp3.1\Bai2TruuTuong.AssemblyInfoInputs.cache
+D:\C#\Bai2TruuTuong\Bai2TruuTuong\obj\Debug\netcoreapp3.1\Bai2TruuTuong.AssemblyInfo.cs
+D:\C#\Bai2TruuTuong\Bai2TruuTuong\obj\Debug\netcoreapp3.1\Bai2TruuTuong.csproj.CoreCompileInputs.cache
+D:\C#\Bai2TruuTuong\Bai2TruuTuong\bin\Debug\netcoreapp3.1\Bai2TruuTuong.exe
+D:\C#\Bai2TruuTuong\Bai2TruuTuong\bin\Debug\netcoreapp3.1\Bai2TruuTuong.deps.json
+D:\C#\Bai2TruuTuong\Bai2TruuTuong\bin\Debug\netcoreapp3.1\Bai2TruuTuong.runtimeconfig.json
+D:\C#\Bai2TruuTuong\Bai2TruuTuong\bin\Debug\netcoreapp3.1\Bai2TruuTuong.runtimeconfig.dev.json
+D:\C#\Bai2TruuTuong\Bai2TruuTuong\bin\Debug\netcoreapp3.1\Bai2TruuTuong.dll
+D:\C#\Bai2TruuTuong\Bai2TruuTuong\bin\Debug\netcoreapp3.1\Bai2TruuTuong.pdb
+D:\C#\Bai2TruuTuong\Bai2TruuTuong\obj\Debug\netcoreapp3.1\Bai2TruuTuong.dll
+D:\C#\Bai2TruuTuong\Bai2TruuTuong\obj\Debug\netcoreapp3.1\Bai2TruuTuong.pdb
+D:\C#\Bai2TruuTuong\Bai2TruuTuong\obj\Debug\netcoreapp3.1\Bai2TruuTuong.genruntimeconfig.cache

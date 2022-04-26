@@ -1,0 +1,14 @@
+D:\C#\PhuongTrinhBac2\PhuongTrinhBac2\bin\Debug\netcoreapp3.1\PhuongTrinhBac2.exe
+D:\C#\PhuongTrinhBac2\PhuongTrinhBac2\bin\Debug\netcoreapp3.1\PhuongTrinhBac2.deps.json
+D:\C#\PhuongTrinhBac2\PhuongTrinhBac2\bin\Debug\netcoreapp3.1\PhuongTrinhBac2.runtimeconfig.json
+D:\C#\PhuongTrinhBac2\PhuongTrinhBac2\bin\Debug\netcoreapp3.1\PhuongTrinhBac2.runtimeconfig.dev.json
+D:\C#\PhuongTrinhBac2\PhuongTrinhBac2\bin\Debug\netcoreapp3.1\PhuongTrinhBac2.dll
+D:\C#\PhuongTrinhBac2\PhuongTrinhBac2\bin\Debug\netcoreapp3.1\PhuongTrinhBac2.pdb
+D:\C#\PhuongTrinhBac2\PhuongTrinhBac2\obj\Debug\netcoreapp3.1\PhuongTrinhBac2.csproj.AssemblyReference.cache
+D:\C#\PhuongTrinhBac2\PhuongTrinhBac2\obj\Debug\netcoreapp3.1\PhuongTrinhBac2.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\PhuongTrinhBac2\PhuongTrinhBac2\obj\Debug\netcoreapp3.1\PhuongTrinhBac2.AssemblyInfoInputs.cache
+D:\C#\PhuongTrinhBac2\PhuongTrinhBac2\obj\Debug\netcoreapp3.1\PhuongTrinhBac2.AssemblyInfo.cs
+D:\C#\PhuongTrinhBac2\PhuongTrinhBac2\obj\Debug\netcoreapp3.1\PhuongTrinhBac2.csproj.CoreCompileInputs.cache
+D:\C#\PhuongTrinhBac2\PhuongTrinhBac2\obj\Debug\netcoreapp3.1\PhuongTrinhBac2.dll
+D:\C#\PhuongTrinhBac2\PhuongTrinhBac2\obj\Debug\netcoreapp3.1\PhuongTrinhBac2.pdb
+D:\C#\PhuongTrinhBac2\PhuongTrinhBac2\obj\Debug\netcoreapp3.1\PhuongTrinhBac2.genruntimeconfig.cache
