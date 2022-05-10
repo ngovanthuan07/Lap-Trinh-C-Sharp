@@ -1,0 +1,14 @@
+D:\C#\BaiDiemDanh_10_05\BaiDiemDanh_10_05\bin\Debug\netcoreapp3.1\BaiDiemDanh_10_05.exe
+D:\C#\BaiDiemDanh_10_05\BaiDiemDanh_10_05\bin\Debug\netcoreapp3.1\BaiDiemDanh_10_05.deps.json
+D:\C#\BaiDiemDanh_10_05\BaiDiemDanh_10_05\bin\Debug\netcoreapp3.1\BaiDiemDanh_10_05.runtimeconfig.json
+D:\C#\BaiDiemDanh_10_05\BaiDiemDanh_10_05\bin\Debug\netcoreapp3.1\BaiDiemDanh_10_05.runtimeconfig.dev.json
+D:\C#\BaiDiemDanh_10_05\BaiDiemDanh_10_05\bin\Debug\netcoreapp3.1\BaiDiemDanh_10_05.dll
+D:\C#\BaiDiemDanh_10_05\BaiDiemDanh_10_05\bin\Debug\netcoreapp3.1\BaiDiemDanh_10_05.pdb
+D:\C#\BaiDiemDanh_10_05\BaiDiemDanh_10_05\obj\Debug\netcoreapp3.1\BaiDiemDanh_10_05.csproj.AssemblyReference.cache
+D:\C#\BaiDiemDanh_10_05\BaiDiemDanh_10_05\obj\Debug\netcoreapp3.1\BaiDiemDanh_10_05.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\BaiDiemDanh_10_05\BaiDiemDanh_10_05\obj\Debug\netcoreapp3.1\BaiDiemDanh_10_05.AssemblyInfoInputs.cache
+D:\C#\BaiDiemDanh_10_05\BaiDiemDanh_10_05\obj\Debug\netcoreapp3.1\BaiDiemDanh_10_05.AssemblyInfo.cs
+D:\C#\BaiDiemDanh_10_05\BaiDiemDanh_10_05\obj\Debug\netcoreapp3.1\BaiDiemDanh_10_05.csproj.CoreCompileInputs.cache
+D:\C#\BaiDiemDanh_10_05\BaiDiemDanh_10_05\obj\Debug\netcoreapp3.1\BaiDiemDanh_10_05.dll
+D:\C#\BaiDiemDanh_10_05\BaiDiemDanh_10_05\obj\Debug\netcoreapp3.1\BaiDiemDanh_10_05.pdb
+D:\C#\BaiDiemDanh_10_05\BaiDiemDanh_10_05\obj\Debug\netcoreapp3.1\BaiDiemDanh_10_05.genruntimeconfig.cache
