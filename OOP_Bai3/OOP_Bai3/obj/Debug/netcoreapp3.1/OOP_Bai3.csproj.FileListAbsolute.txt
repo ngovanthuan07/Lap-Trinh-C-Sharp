@@ -1,0 +1,13 @@
+C:\Users\ngova\source\repos\OOP_Bai3\OOP_Bai3\bin\Debug\netcoreapp3.1\OOP_Bai3.exe
+C:\Users\ngova\source\repos\OOP_Bai3\OOP_Bai3\bin\Debug\netcoreapp3.1\OOP_Bai3.deps.json
+C:\Users\ngova\source\repos\OOP_Bai3\OOP_Bai3\bin\Debug\netcoreapp3.1\OOP_Bai3.runtimeconfig.json
+C:\Users\ngova\source\repos\OOP_Bai3\OOP_Bai3\bin\Debug\netcoreapp3.1\OOP_Bai3.runtimeconfig.dev.json
+C:\Users\ngova\source\repos\OOP_Bai3\OOP_Bai3\bin\Debug\netcoreapp3.1\OOP_Bai3.dll
+C:\Users\ngova\source\repos\OOP_Bai3\OOP_Bai3\bin\Debug\netcoreapp3.1\OOP_Bai3.pdb
+C:\Users\ngova\source\repos\OOP_Bai3\OOP_Bai3\obj\Debug\netcoreapp3.1\OOP_Bai3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ngova\source\repos\OOP_Bai3\OOP_Bai3\obj\Debug\netcoreapp3.1\OOP_Bai3.AssemblyInfoInputs.cache
+C:\Users\ngova\source\repos\OOP_Bai3\OOP_Bai3\obj\Debug\netcoreapp3.1\OOP_Bai3.AssemblyInfo.cs
+C:\Users\ngova\source\repos\OOP_Bai3\OOP_Bai3\obj\Debug\netcoreapp3.1\OOP_Bai3.csproj.CoreCompileInputs.cache
+C:\Users\ngova\source\repos\OOP_Bai3\OOP_Bai3\obj\Debug\netcoreapp3.1\OOP_Bai3.dll
+C:\Users\ngova\source\repos\OOP_Bai3\OOP_Bai3\obj\Debug\netcoreapp3.1\OOP_Bai3.pdb
+C:\Users\ngova\source\repos\OOP_Bai3\OOP_Bai3\obj\Debug\netcoreapp3.1\OOP_Bai3.genruntimeconfig.cache
